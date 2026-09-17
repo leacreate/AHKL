@@ -56,7 +56,7 @@ python -m pip install -e .
 Then:
 
 ```bash
-ahkl gui
+ahkl
 ```
 
 or run a script directly:
